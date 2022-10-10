@@ -1,20 +1,23 @@
-### Hello there! 👋
+### Hello there, I'm Yves! 👋
 
-Hi, I'm Yves, and I am currently pursuing a Master's degree in Applied Mathematics at Paris Dauphine - PSL University. 
 
-Contact me if you need further details about a project I worked on (e.g. Automated trading strategy on options, Funds administration tools...). 
+## :mortar_board: Education
 
-<!--
-**yvesleconte/yvesleconte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a [Master's](https://dauphine.psl.eu/en/training/masters-degrees/mathematics-and-applied-mathematics/m1-applied-mathematics) student in Applied Mathematics at Paris Dauphine University, and I hold a [Bachelor's degree](https://dauphine.psl.eu/en/training/bachelors-degrees/bachelors-degree-in-applied-mathematics) in Applied Mathematics from Paris Dauphine University.
 
-Here are some ideas to get you started:
+## :bulb: Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Statistics
+- Algo trading
+
+## :hammer_and_wrench: Projects 
+
+- Automated trading strategy on options 
+- Funds administration tools for performance computations (MtM PnL, returns etc.)
+
+**<sub>*([Contact me](yves.leconte@dauphine.eu) if you want to have a look)*</sub>**
+
+## :hearts:	Fun
+
+- :guitar: Classical guitar 
+- :keyboard: Custom mechanical keyboards
