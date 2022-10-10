@@ -15,7 +15,7 @@ I'm a [Master's](https://dauphine.psl.eu/en/training/masters-degrees/mathematics
 - Automated trading strategy on options 
 - Funds administration tools for performance computations (MtM PnL, returns etc.)
 
-**<sub>*([Contact me](yves.leconte@dauphine.eu) if you want to have a look)*</sub>**
+***([Contact me](mailto:yves.leconte@dauphine.eu) if you want to have a look)***
 
 ## :hearts:	Fun
 
