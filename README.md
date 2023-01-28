@@ -14,7 +14,7 @@ I'm a [Master's](https://dauphine.psl.eu/en/training/masters-degrees/mathematics
 
 - Python
 - R
-- C++
+- C++ *(Just started !)*
 
 ## :rocket: Projects 
 
@@ -25,8 +25,8 @@ I'm a [Master's](https://dauphine.psl.eu/en/training/masters-degrees/mathematics
 ***([Contact me](mailto:yves.leconte@dauphine.eu) if you want to have a look)***
 
 **Academic:**
-- Monte Carlo simulations (R)
-- Prediction of student's grades using linear models (R)
+- Monte Carlo simulations *(R)*
+- Prediction of student's grades using linear models *(R)*
 
 
 ## :hearts:	Fun
