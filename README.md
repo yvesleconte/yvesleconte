@@ -14,13 +14,20 @@ I'm a [Master's](https://dauphine.psl.eu/en/training/masters-degrees/mathematics
 
 - Python
 - R
+- C++
 
 ## :rocket: Projects 
 
-- Automated trading strategy on options *(Python)*
+**Personal:**
+- Fully automated trading strategy on options *(Python)*
 - Funds administration tools for performance computations (MtM PnL, returns etc.) *(Python)*
 
 ***([Contact me](mailto:yves.leconte@dauphine.eu) if you want to have a look)***
+
+**Academic:**
+- Monte Carlo simulations (R)
+- Prediction of student's grades using linear models (R)
+
 
 ## :hearts:	Fun
 
