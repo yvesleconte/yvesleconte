@@ -26,7 +26,6 @@ I'm a [Master's](https://dauphine.psl.eu/en/training/masters-degrees/mathematics
 
 **Academic:**
 - Monte Carlo simulations *(R)*
-- Prediction of student's grades using linear models *(R)*
 
 
 ## :hearts:	Fun
