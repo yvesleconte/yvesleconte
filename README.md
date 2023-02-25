@@ -8,7 +8,7 @@ I'm a [Master's](https://dauphine.psl.eu/en/training/masters-degrees/mathematics
 ## :bulb: Interests
 
 - Mathematical statistics
-- Algo trading
+- Algorithmic trading
 
 ## :hammer_and_wrench: Programming languages
 
