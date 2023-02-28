@@ -13,7 +13,7 @@ I'm a [Master's](https://dauphine.psl.eu/en/training/masters-degrees/mathematics
 ## :hammer_and_wrench: Programming languages
 
 - Python
-- C++ (Just started!)
+- C++ *(Just started!)*
 - R
 
 
