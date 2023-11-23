@@ -21,6 +21,7 @@ I'm a [Master's](https://dauphine.psl.eu/en/training/masters-degrees/mathematics
 **Academic:**
 - Master's Thesis (1st year): Mathematical Modelling of High-Frequency Data
 - Monte Carlo simulations *(R)*
+- Adam: A method for stochastic Optimization 
 
 **Personal:**
 - Fully automated trading strategy on options *(Python)*
