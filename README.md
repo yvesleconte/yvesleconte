@@ -19,6 +19,7 @@ I'm a [Master's](https://dauphine.psl.eu/en/training/masters-degrees/mathematics
 ## :rocket: Projects 
 
 **Academic:**
+- Linformer: Self-Attention with Linear Complexity. Study, implementation and benchmark of the model Linformer versus a Transformer model
 - Master's Thesis (1st year): Mathematical Modelling of High-Frequency Data
 - Monte Carlo simulations *(R)*
 - Adam: A method for stochastic Optimization 
