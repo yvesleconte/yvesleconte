@@ -3,12 +3,11 @@
 
 ## :mortar_board: Education
 
-I'm a [Master's](https://dauphine.psl.eu/en/training/masters-degrees/mathematics-and-applied-mathematics/masters-year-2-mathematics-deep-learning-and-humanities) student in Mathematics of Machine learning at Paris Dauphine & ENS Paris - PSL University graduating in 2024, and I hold a [Bachelor's degree](https://dauphine.psl.eu/en/training/bachelors-degrees/bachelors-degree-in-applied-mathematics) in Applied Mathematics from Paris Dauphine University.
+I'm a [Master's](https://dauphine.psl.eu/en/training/masters-degrees/mathematics-and-applied-mathematics/masters-year-2-mathematics-deep-learning-and-humanities) student in Mathematics of Machine learning at Paris Dauphine & ENS Paris (PSL University), and I hold a [Bachelor's degree](https://dauphine.psl.eu/en/training/bachelors-degrees/bachelors-degree-in-applied-mathematics) in Applied Mathematics from Paris Dauphine University.
 
-## :bulb: Research interests
+## :bulb: Interests
 
-- Machine learning
-- Deep Learning
+- Optimization for Machine Learning
 - Financial Markets
 
 ## :hammer_and_wrench: Programming languages
@@ -17,12 +16,12 @@ I'm a [Master's](https://dauphine.psl.eu/en/training/masters-degrees/mathematics
 
 ## :rocket: Projects 
 
-**Academic Research Projects:**
+**Academic Projects:**
 - Linformer: Self-Attention with Linear Complexity. Study, implementation and benchmark of the model Linformer versus a Transformer model
 - Master's Thesis (1st year): Mathematical Modelling of High-Frequency Data
 
-**Personal Projects:**
+**Personal Projects : *([Contact me](mailto:yves.leconte@dauphine.eu) if you want to have a look)***
+
 - Fully automated trading strategy on options *(Python)*
 - Funds administration tools for performance computations (MtM PnL, returns etc.) *(Python)*
 
-***([Contact me](mailto:yves.leconte@dauphine.eu) if you want to have a look)***
