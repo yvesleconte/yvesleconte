@@ -7,7 +7,8 @@ I'm a [Master's](https://dauphine.psl.eu/en/training/masters-degrees/mathematics
 
 ## :bulb: Interests
 
-- Optimization for Machine Learning
+- Statistics
+- Machine Learning & Learning Theory
 - Financial Markets
 
 ## :hammer_and_wrench: Programming languages
@@ -17,6 +18,8 @@ I'm a [Master's](https://dauphine.psl.eu/en/training/masters-degrees/mathematics
 ## :rocket: Projects 
 
 **Academic Projects:**
+- CFM ENS Data Challenge, High-Frequency Market Data: Could you guess the stock ? *(work in progress, coming soon...)*
+- Sentimental Analysis of Financial News *(work in progress, coming soon...)*
 - Linformer: Self-Attention with Linear Complexity. Study, implementation and benchmark of the model Linformer versus a Transformer model
 - Master's Thesis (1st year): Mathematical Modelling of High-Frequency Data
 
