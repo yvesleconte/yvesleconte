@@ -3,7 +3,7 @@
 
 ## :mortar_board: Education
 
-I'm a [Master's](https://dauphine.psl.eu/en/training/masters-degrees/mathematics-and-applied-mathematics/masters-year-2-mathematics-deep-learning-and-humanities) student in Applied Mathematics specialized in the Mathematics of Machine Learning at Paris Dauphine & ENS Paris (PSL University), and I hold a [Bachelor's degree](https://dauphine.psl.eu/en/training/bachelors-degrees/bachelors-degree-in-applied-mathematics) in Applied Mathematics from Paris Dauphine University.
+I'm a [Master's](https://dauphine.psl.eu/en/training/masters-degrees/mathematics-and-applied-mathematics/masters-year-2-mathematics-deep-learning-and-humanities) student in Applied Mathematics specialized in Machine Learning at Paris Dauphine & ENS Paris (PSL University), and I hold a [Bachelor's degree](https://dauphine.psl.eu/en/training/bachelors-degrees/bachelors-degree-in-applied-mathematics) in Applied Mathematics from Paris Dauphine University.
 
 ## :bulb: Interests
 
