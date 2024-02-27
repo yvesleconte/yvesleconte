@@ -32,4 +32,4 @@ I'm a [Master's](https://dauphine.psl.eu/en/training/masters-degrees/mathematics
 ## 📖 Maths resources I enjoy
 
 - ["Learning Theory From First Principles"](https://www.di.ens.fr/%7Efbach/ltfp_book.pdf), the Master's course of Francis Bach that I followed at ENS Paris
-- ["Learning and Generation through Random Sampling"](https://www.di.ens.fr/~mallat/College/Cours-2024-Mallat-Jean-Eric-Campagne.pdf), and [the video replays of the course](https://www.youtube.com/watch?v=FyakUsu39AU&list=PLtimy8tnozIDuJUrO0OTmX3ofrkWMzb2W), the Master's course of Stephane Mallat that I followed at Collège de France 
+- ["Learning and Generation through Random Sampling"](https://www.di.ens.fr/~mallat/College/Cours-2024-Mallat-Jean-Eric-Campagne.pdf), and [the video replays of the course](https://www.youtube.com/watch?v=FyakUsu39AU&list=PLtimy8tnozIDuJUrO0OTmX3ofrkWMzb2W), the Master's course of Stephane Mallat that I followed at Collège de France *(in french!)*
