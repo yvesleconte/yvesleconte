@@ -14,14 +14,14 @@ I'm a [Master's](https://dauphine.psl.eu/en/training/masters-degrees/mathematics
 
 ## :hammer_and_wrench: Programming languages
 
-- Python (Pandas, Plotly, PyTorch etc.)
+- Python (Pytorch, Pandas, Plotly etc.)
 
-## :rocket: Projects 
+## :rocket: Projects
 
 **Academic Projects:**
 - CFM ENS Data Challenge, High-Frequency Market Data: Could you guess the stock ? *(work in progress, coming soon...)*
 - Sentimental Analysis of Financial News
-- Linformer: Self-Attention with Linear Complexity. Study, implementation and benchmark of the model Linformer versus a Transformer model
+- Linformer: Self-Attention with Linear Complexity
 - Master's Thesis (1st year): Mathematical Modelling of High-Frequency Data
 
 **Personal Projects : *([Contact me](mailto:yves.leconte@dauphine.eu) if you want to have a look)***
