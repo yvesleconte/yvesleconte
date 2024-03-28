@@ -19,7 +19,7 @@ I'm a [Master's](https://dauphine.psl.eu/en/training/masters-degrees/mathematics
 ## :rocket: Projects
 
 **Academic Projects:**
-- CFM ENS Data Challenge, High-Frequency Market Data: Could you guess the stock ? *(work in progress, coming soon...)*
+- Capital Fund Management (CFM) Challenge, High-Frequency Market Data: Could you guess the stock ? *(work in progress, coming soon...)*
 - Kaggle, Sentimental Analysis of Financial News
 - Linformer: Self-Attention with Linear Complexity
 - Master's Thesis (1st year): Mathematical Modelling of High-Frequency Data
