@@ -9,8 +9,8 @@ I'm currently working as a quant in algorithmic trading at [Valinor Research](ht
 
 ## :bulb: Interests
 
-- Statistics
 - Machine Learning
+- High-frequency trading
 - DeFi
 
 ## 📖 Maths resources I enjoy
