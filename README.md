@@ -1,5 +1,7 @@
 ### Hello there, I'm Yves! 👋
 
+I'm currently working as a Quant Researcher in DeFi.
+
 ## :mortar_board: Education
 
 - In Dec. 2024 I will graduate from a research [Master's](https://dauphine.psl.eu/en/training/masters-degrees/mathematics-and-applied-mathematics/masters-year-2-mathematics-deep-learning-and-humanities) degree in Applied Mathematics specialized in Statistics & Machine Learning from Paris Dauphine University and ENS Paris (PSL University).
