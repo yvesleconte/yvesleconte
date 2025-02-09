@@ -4,13 +4,12 @@ I'm currently working as a Quant Researcher in DeFi
 
 ## :mortar_board: Education
 
-- From 2022 to 2024, I completed a [Master's degree](https://www.masteriasd.eu/en/) in Applied Mathematics *- M2 IASD Mathematics (ex-M2 MASH) and M1 Statistics major -* specialized in Machine Learning research at Paris-Dauphine and ENS Paris (PSL University)
+- From 2022 to 2024, I completed a [Master's degree](https://www.masteriasd.eu/en/) in Applied Mathematics *- M2 IASD Mathematics (ex M2 MASH) and M1 Applied Mathematics -* specialized in Machine Learning research at Paris-Dauphine and ENS Paris (PSL University)
 - From 2019 to 2022, I completed a [Bachelor's degree](https://dauphine.psl.eu/en/training/bachelors-degrees/bachelors-degree-in-applied-mathematics) in Applied Mathematics at Paris-Dauphine (PSL University)
 
 ## :bulb: Interests
 
 - Machine Learning
-- High-frequency trading
 - DeFi
 
 ## 📖 Some maths resources I enjoy
